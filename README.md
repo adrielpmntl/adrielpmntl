@@ -7,13 +7,6 @@ Me chamo Adriel de Moura Pimentel, tenho 17 anos e sou de São Paulo, SP. Estou 
 <p align="left">
     <a href="https://www.instagram.com/adrielpmntl">
         <img 
-            alt="Me siga no Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Me%20siga-no%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584"
-        />
-    </a>
-    <a href="https://www.instagram.com/adrielpmntl">
-        <img 
             alt="Instagram" 
             title="Meu Instagram" 
             src="https://custom-icon-badges.demolab.com/badge/Instagram-@adrielpmntl-E1AD0E?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C79600"
