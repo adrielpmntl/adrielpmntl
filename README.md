@@ -26,7 +26,7 @@ Me chamo Adriel de Moura Pimentel, tenho 17 anos e sou de São Paulo, SP. Estou 
             src="https://custom-icon-badges.demolab.com/github/followers/adrielpmntl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <a href="https://www.linkedin.com/in/adriel-de-moura-pimentel-14441b363">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
